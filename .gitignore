@@ -46,6 +46,7 @@ uploads/
 temp/
 scratch/
 artifacts/
+.agents/
 
 # TypeScript
 *.tsbuildinfo
